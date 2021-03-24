@@ -269,8 +269,6 @@ Signed,
 
 [Maxim Kochetkov](https://github.com/fidomax)
 
-[Dmitriy Tukhvatullin](https://github.com/jershell)
-
 [r3d9477](https://github.com/R3D9477)
 
 [Dmitrii Shepilov](https://github.com/CmShepard)
@@ -281,4 +279,4 @@ Signed,
 
 [Maksim Polishchuk](https://github.com/MiraD1n)
 
-[alsoijw](https://github.com/alsoijw)
+[iVan KeKs](https://github.com/iVanKeKs)
